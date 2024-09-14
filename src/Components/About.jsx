@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm currently looking for a job in Frontend Development. I have a master's degree in Computer Applications(MCA) at Vaagdevi Degree And P.G. College with excellent academic background and diverse skillset. Experienced in Web Development.I am well versed with Html, CSS, Bootstrap, Javascript, Python, Java, C++ and basics of Angular, React.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

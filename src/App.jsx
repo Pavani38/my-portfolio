@@ -29,7 +29,7 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "pavanigajula38@gmail.com",
   gitHub: "https://github.com/Pavani38/",
-  instagram: "microsoft",
+  instagram: "",
   linkedIn: "https://www.linkedin.com/in/pavani-gajula/",
   medium: "",
   twitter: "",

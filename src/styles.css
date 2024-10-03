@@ -12,12 +12,9 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
-}
-
-/* add a smooth scroll */
-html {
   scroll-behavior: smooth;
 }
+
 
 /* add a slide In Left animation */
 @keyframes slideInLeft {
